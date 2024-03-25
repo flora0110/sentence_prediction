@@ -49,5 +49,5 @@
 | MAE     | 89.1020     | 
 
 ## vs gpt
-![image](https://hackmd.io/_uploads/rkkrszy10.png)
-![image](https://hackmd.io/_uploads/rJPPsGykA.png)
+![image](https://github.com/flora0110/sentence_prediction/blob/main/GPT_TFIDF.png)
+![image](https://github.com/flora0110/sentence_prediction/blob/main/GPT_Breeze.png)
