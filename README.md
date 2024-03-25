@@ -33,12 +33,13 @@
 | RMSE     | 134.7303     | 139.0872     |150.0137|148.0008|153.7499|150.2571|
 | MAE     | 89.7740     | 103.4240     |107.5840|104.4040|102.7760|103.3440|
 
-### 3/25 bge-m3
-|          | dense      | 
-| -------- | ---------- | 
-| MSE      | 21656.7064 | 
-| RMSE     | 147.1622   | 
-| MAE      | 98.2520    | 
+### 3/25 Extraction-based summarization (using Breeze for summarization with different encoding methods for KNN)
+|          | SBERT        | bge-m3+dense | bge-m3+colbert 
+| -------- | ----------   | ------------ | -------------
+| MSE      | 22384.2796   | 21656.7064   | 20205.8244
+| RMSE     | 149.6138     | 147.1622     | 142.1472
+| MAE      | 104.5740     | 98.2520      | 93.4380
+
 
 ### avg
 |          | avg | 
@@ -47,3 +48,6 @@
 | RMSE     | 127.7725     | 
 | MAE     | 89.1020     | 
 
+## vs gpt
+![image](https://hackmd.io/_uploads/rkkrszy10.png)
+![image](https://hackmd.io/_uploads/rJPPsGykA.png)
