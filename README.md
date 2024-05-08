@@ -96,7 +96,7 @@
 - new_factors with A prompt: 4/20
 - new_factors with B prompt: 0/20
 
-## Test2 25, 25個factors + judgement[:6500]
+## Test3 25, 25個factors + judgement[:6500]
 - old_factors with A prompt: 5/20
 - old_factors with B prompt: 9/20
 - new_factors with A prompt: 4/20
